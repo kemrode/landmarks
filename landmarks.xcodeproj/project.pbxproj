@@ -13,6 +13,7 @@
 		8458E4202AD19CFD00DB69D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8458E41F2AD19CFD00DB69D1 /* Preview Assets.xcassets */; };
 		8458E4282AD1A4C900DB69D1 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8458E4272AD1A4C900DB69D1 /* CircleImage.swift */; };
 		8458E42A2AD1A5D100DB69D1 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8458E4292AD1A5D100DB69D1 /* MapView.swift */; };
+		8458E42C2AD1B26200DB69D1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8458E42B2AD1B26200DB69D1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8458E4212AD19CFD00DB69D1 /* landmarks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = landmarks.entitlements; sourceTree = "<group>"; };
 		8458E4272AD1A4C900DB69D1 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		8458E4292AD1A5D100DB69D1 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		8458E42B2AD1B26200DB69D1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				8458E4182AD19CFC00DB69D1 /* landmarksApp.swift */,
 				8458E41A2AD19CFC00DB69D1 /* ContentView.swift */,
+				8458E42B2AD1B26200DB69D1 /* README.md */,
 				8458E41C2AD19CFD00DB69D1 /* Assets.xcassets */,
 				8458E4212AD19CFD00DB69D1 /* landmarks.entitlements */,
 				8458E41E2AD19CFD00DB69D1 /* Preview Content */,
@@ -133,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8458E42C2AD1B26200DB69D1 /* README.md in Resources */,
 				8458E4202AD19CFD00DB69D1 /* Preview Assets.xcassets in Resources */,
 				8458E41D2AD19CFD00DB69D1 /* Assets.xcassets in Resources */,
 			);
